@@ -1,0 +1,13 @@
+# Dependency directories
+node_modules/
+dist/
+build/
+
+# Environment variables (Safety)
+.env
+.env.local
+
+# IDE and System files
+.vscode/
+.DS_Store
+*.log
