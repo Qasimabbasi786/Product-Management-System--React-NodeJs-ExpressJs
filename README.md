@@ -4,7 +4,7 @@ Yeh ek professional Product Management System hai jise **React.js** (Frontend) a
 
 
 <img width="1257" height="736" alt="image" src="https://github.com/user-attachments/assets/dbc7960d-a8f8-4543-8589-cf137cdea0a5" />
-<img width="948" height="736" alt="image" src="https://github.com/user-attachments/assets/e52151c8-187b-4901-b742-365f0740057f" />
+<img width="947" height="730" alt="image" src="https://github.com/user-attachments/assets/c3ca19f8-830d-47ae-95b5-bc1183d39af0" />
 <img width="960" height="448" alt="image" src="https://github.com/user-attachments/assets/36e4169b-d654-4b8f-9c95-11a62bd8d52c" />
 <img width="961" height="501" alt="image" src="https://github.com/user-attachments/assets/aa4bd234-80e0-48d6-a82d-9fb0f272b38d" />
 <img width="966" height="520" alt="image" src="https://github.com/user-attachments/assets/b2f19070-d11b-409b-b9fa-8b8829615b8c" />
