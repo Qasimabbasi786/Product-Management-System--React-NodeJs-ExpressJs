@@ -1,13 +1,14 @@
 import { createContext, useState, useEffect } from "react";
 import { toast } from "react-toastify";
 
+
 export const ProductContext = createContext();
 
 export const ProductProvider = ({ children }) => {
   const [products, setProducts] = useState([]);
   const [search, setSearch] = useState("");
 
-  const API = "http://localhost:5000/products";
+ const API = import.meta.env.VITE_API_URL;
 
   const fetchProducts = async () => {
     try {
