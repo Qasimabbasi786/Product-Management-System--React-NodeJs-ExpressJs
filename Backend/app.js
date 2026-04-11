@@ -9,7 +9,7 @@ const PORT = process.env.PORT || 5000;
 
 const corsOptions = {
   // Yahan apna Vercel wala final link dalna
-  origin: 'https://full-stack-product-management-system-qasim.vercel.app', 
+  origin: 'https://qasim-products.vercel.app/', 
   methods: 'GET,POST,PUT,DELETE',
   credentials: true,
 };
