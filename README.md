@@ -2,6 +2,8 @@
 
 Yeh ek professional Product Management System hai jise **React.js** (Frontend) aur **Node.js/Express** (Backend) ko connect karke banaya gaya hai. Is project mein CRUD operations aur real-time UI updates ka istemal kiya gaya hai.
 
+## Live Link:
+https://qasim-products.vercel.app/
 
 <img width="1257" height="736" alt="image" src="https://github.com/user-attachments/assets/dbc7960d-a8f8-4543-8589-cf137cdea0a5" />
 <img width="947" height="730" alt="image" src="https://github.com/user-attachments/assets/c3ca19f8-830d-47ae-95b5-bc1183d39af0" />
