@@ -1,9 +1,9 @@
 # Full-Stack Product Management System 🚀
 
-Yeh ek professional Product Management System hai jise **React.js** (Frontend) aur **Node.js/Express** (Backend) ko connect karke banaya gaya hai. Is project mein CRUD operations aur real-time UI updates ka istemal kiya gaya hai.
+This is a professional **Product Management System** developed by integrating **React.js** (Frontend) and **Node.js/Express** (Backend). The project focuses on seamless CRUD operations and real-time UI updates.
 
 ## Live Link:
-https://qasim-products.vercel.app/
+[https://qasim-products.vercel.app/](https://qasim-products.vercel.app/)
 
 <img width="1257" height="736" alt="image" src="https://github.com/user-attachments/assets/dbc7960d-a8f8-4543-8589-cf137cdea0a5" />
 <img width="947" height="730" alt="image" src="https://github.com/user-attachments/assets/c3ca19f8-830d-47ae-95b5-bc1183d39af0" />
@@ -11,28 +11,29 @@ https://qasim-products.vercel.app/
 <img width="961" height="501" alt="image" src="https://github.com/user-attachments/assets/aa4bd234-80e0-48d6-a82d-9fb0f272b38d" />
 <img width="966" height="520" alt="image" src="https://github.com/user-attachments/assets/b2f19070-d11b-409b-b9fa-8b8829615b8c" />
 
-
-
-
-
+---
 
 ## 🛠 Tech Stack
 
-- **Frontend:** React.js, Context API, Tailwind CSS / CSS3
-- **Backend:** Node.js, Express.js
-- **Database:** Static JSON Data (Custom API)
-- **Notification:** React-Toastify
-- **Icons & Images:** Lucide-react / Font-Awesome & Unsplash/Pexels
+* **Frontend:** React.js, Context API, Tailwind CSS / CSS3
+* **Backend:** Node.js, Express.js
+* **Database:** Static JSON Data (Custom API)
+* **Notification:** React-Toastify
+* **Icons & Images:** Lucide-react / Font-Awesome & Unsplash/Pexels
+
+---
 
 ## ✨ Features (Assignment Requirements)
 
-- [cite_start]**Fetch Products:** Backend se 30+ relevant products fetch karke display karna. [cite: 13, 21]
-- [cite_start]**Add Product:** Form ke zariye naya product add karna aur UI ko bina refresh kiye update karna. [cite: 25, 27]
-- [cite_start]**Update Product:** Maujooda product ki details edit karna aur changes instantly reflect karna. [cite: 29, 32]
-- [cite_start]**Delete Product:** Kisi bhi product ko list se foran remove karna. [cite: 33, 36]
-- [cite_start]**Toasts:** Success aur Error messages ke liye `react-toastify` ka istemal. 
-- [cite_start]**Search:** Title ke mutabiq products ko filter karne ki salahiyat. 
-- **Responsive Design:** Mobile aur Desktop dono ke liye behtareen UI.
+* **Fetch Products:** Fetches and displays 30+ relevant products from the backend.
+* **Add Product:** Add new products via forms with instant UI updates without page refreshes.
+* **Update Product:** Edit existing product details with changes reflecting instantly.
+* **Delete Product:** Quickly remove any product from the list.
+* **Toasts:** Implementation of `react-toastify` for professional success and error messages.
+* **Search:** Advanced filtering capability based on product titles.
+* **Responsive Design:** Optimized user interface for both mobile and desktop views.
+
+---
 
 ## 📁 Project Structure
 
@@ -52,11 +53,35 @@ Full-Stack Product Management System/
 │   └── App.jsx
 └── README.md
 
-🚀 How to Run Locally1. Clone the repositoryBashgit clone [https://github.com/YourUsername/your-repo-name.git](https://github.com/YourUsername/your-repo-name.git)
-2. Setup BackendBashcd Backend
+🚀 How to Run Locally
+1. Clone the repository
+Bash
+git clone [https://github.com/YourUsername/your-repo-name.git](https://github.com/YourUsername/your-repo-name.git)
+2. Setup Backend
+Bash
+cd Backend
 npm install
 npm run dev
-Backend runs on: http://localhost:50003. Setup FrontendBashcd Frontend
+Backend runs on: http://localhost:5000
+
+3. Setup Frontend
+Bash
+cd Frontend
 npm install
 npm run dev
-Frontend runs on: http://localhost:5173📝 Assignment Requirements Covered[x] Connect Frontend to Backend [x] CRUD Operations (Create, Read, Update, Delete) [x] State Management using Context API/useState [x] Toast Notifications [x] Search Functionality [x] Git & GitHub IntegrationDeveloped by: Muhammad Qasim Abbasi 👨‍💻
+Frontend runs on: http://localhost:5173
+
+📝 Assignment Requirements Covered
+[x] Connect Frontend to Backend
+
+[x] CRUD Operations (Create, Read, Update, Delete)
+
+[x] State Management using Context API/useState
+
+[x] Toast Notifications
+
+[x] Search Functionality
+
+[x] Git & GitHub Integration
+
+## Developed by: Muhammad Qasim Abbasi 👨‍💻
