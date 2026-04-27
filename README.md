@@ -52,6 +52,7 @@ Full-Stack Product Management System/
 │   │   └── pages/          # Add, Edit, List Pages
 │   └── App.jsx
 └── README.md
+```
 
 🚀 How to Run Locally
 1. Clone the repository
