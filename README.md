@@ -1,4 +1,4 @@
-# Full-Stack Product Management System 🚀
+# Product Management System 🚀
 
 This is a professional **Product Management System** developed by integrating **React.js** (Frontend) and **Node.js/Express** (Backend). The project focuses on seamless CRUD operations and real-time UI updates.
 
