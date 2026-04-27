@@ -85,4 +85,4 @@ Frontend runs on: http://localhost:5173
 
 [x] Git & GitHub Integration
 
-## Developed by: Muhammad Qasim Abbasi 👨‍💻
+# Developed by: Muhammad Qasim
