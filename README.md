@@ -3,7 +3,7 @@
 This is a professional **Product Management System** developed by integrating **React.js** (Frontend) and **Node.js/Express** (Backend). The project focuses on seamless CRUD operations and real-time UI updates.
 
 ## Live Link:
-[https://qasim-products.vercel.app/](https://qasim-products.vercel.app/)
+[https://product-management-qasim.vercel.app/](https://product-management-qasim.vercel.app/)
 
 <img width="1257" height="736" alt="image" src="https://github.com/user-attachments/assets/dbc7960d-a8f8-4543-8589-cf137cdea0a5" />
 <img width="947" height="730" alt="image" src="https://github.com/user-attachments/assets/c3ca19f8-830d-47ae-95b5-bc1183d39af0" />
